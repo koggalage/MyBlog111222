@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\All\\Test\\MyBlog111222\\CodeGuide.API\\CodeGuide.EF\\CodeGuide.EF.csproj": {}
+  },
+  "projects": {
+    "F:\\All\\Test\\MyBlog111222\\CodeGuide.API\\CodeGuide.EF\\CodeGuide.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\All\\Test\\MyBlog111222\\CodeGuide.API\\CodeGuide.EF\\CodeGuide.EF.csproj",
+        "projectName": "CodeGuide.EF",
+        "projectPath": "F:\\All\\Test\\MyBlog111222\\CodeGuide.API\\CodeGuide.EF\\CodeGuide.EF.csproj",
+        "packagesPath": "C:\\Users\\kogztp\\.nuget\\packages\\",
+        "outputPath": "F:\\All\\Test\\MyBlog111222\\CodeGuide.API\\CodeGuide.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kogztp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

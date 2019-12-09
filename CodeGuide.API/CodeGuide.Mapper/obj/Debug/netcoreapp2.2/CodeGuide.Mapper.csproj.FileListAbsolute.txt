@@ -1,0 +1,5 @@
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.Mapper\bin\Debug\netcoreapp2.2\CodeGuide.Mapper.deps.json
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.Mapper\bin\Debug\netcoreapp2.2\CodeGuide.Mapper.dll
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.Mapper\obj\Debug\netcoreapp2.2\CodeGuide.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.Mapper\obj\Debug\netcoreapp2.2\CodeGuide.Mapper.AssemblyInfoInputs.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.Mapper\obj\Debug\netcoreapp2.2\CodeGuide.Mapper.AssemblyInfo.cs

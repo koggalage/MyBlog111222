@@ -1,0 +1,11 @@
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\bin\Debug\netcoreapp2.2\CodeGuide.EF.deps.json
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\bin\Debug\netcoreapp2.2\CodeGuide.EF.runtimeconfig.json
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\bin\Debug\netcoreapp2.2\CodeGuide.EF.runtimeconfig.dev.json
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\bin\Debug\netcoreapp2.2\CodeGuide.EF.dll
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\bin\Debug\netcoreapp2.2\CodeGuide.EF.pdb
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\obj\Debug\netcoreapp2.2\CodeGuide.EF.csprojAssemblyReference.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\obj\Debug\netcoreapp2.2\CodeGuide.EF.csproj.CoreCompileInputs.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\obj\Debug\netcoreapp2.2\CodeGuide.EF.AssemblyInfoInputs.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\obj\Debug\netcoreapp2.2\CodeGuide.EF.AssemblyInfo.cs
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\obj\Debug\netcoreapp2.2\CodeGuide.EF.dll
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.EF\obj\Debug\netcoreapp2.2\CodeGuide.EF.pdb

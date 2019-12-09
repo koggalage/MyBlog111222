@@ -1,0 +1,17 @@
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\bin\Debug\netcoreapp2.2\CodeGuide.API.deps.json
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\bin\Debug\netcoreapp2.2\CodeGuide.API.runtimeconfig.json
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\bin\Debug\netcoreapp2.2\CodeGuide.API.runtimeconfig.dev.json
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\bin\Debug\netcoreapp2.2\CodeGuide.API.dll
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\bin\Debug\netcoreapp2.2\CodeGuide.API.pdb
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.csprojAssemblyReference.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.csproj.CoreCompileInputs.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.RazorAssemblyInfo.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.RazorAssemblyInfo.cs
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.AssemblyInfoInputs.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.AssemblyInfo.cs
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.RazorTargetAssemblyInfo.cache
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.dll
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.pdb
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\bin\Debug\netcoreapp2.2\CodeGuide.EF.dll
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\bin\Debug\netcoreapp2.2\CodeGuide.EF.pdb
+C:\Users\kogztp\source\repos\CodeGuide.API\CodeGuide.API\obj\Debug\netcoreapp2.2\CodeGuide.API.csproj.CopyComplete
